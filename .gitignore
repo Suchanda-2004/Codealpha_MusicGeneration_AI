@@ -1,0 +1,5 @@
+.venv/
+data/
+weights-improvement-*.keras
+__pycache__/
+*.pyc
